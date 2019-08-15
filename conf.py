@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 from unittest.mock import MagicMock
 
 # Changeo imports
-import changeo.Version
+# import changeo.Version
 
 # Mock modules for readthedocs
 if os.environ.get('READTHEDOCS', None) == 'True':
