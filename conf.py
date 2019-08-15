@@ -71,7 +71,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'OmicsPlayground'
+project = 'Omics Playground'
 copyright = 'Murodzhon Akhmedov, 2019'
 
 # The version info for the project you're documenting, acts as replacement for
